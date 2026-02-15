@@ -27,3 +27,10 @@ O objetivo deste projeto é demonstrar habilidades em:
 - Monitoramento de dados financeiros em tempo real  
 - Integração com ambiente analítico (Databricks)  
 - Organização de código para portfólio profissional
+
+## Dashboard Analítico
+
+![Dashboard 1](https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png)
+
+![Dashboard 2](https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png)
+
