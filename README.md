@@ -32,11 +32,21 @@ O objetivo deste projeto é demonstrar habilidades em:
 
 ## Dashboard Analítico
 
+## Dashboard Analítico
+O projeto é executado automaticamente por meio de um Job com Schedule configurado no Databricks.
+
+A cada execução agendada, o sistema:
+
+- Consulta o preço atualizado do Bitcoin via API da Coinbase
+- Atualiza os dados utilizados no dashboard
+- Envia alerta automático por e-mail com as informações da cotação
+
+Dessa forma, o monitoramento ocorre de maneira automatizada, sem necessidade de execução manual.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png" width="700">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png" width="700">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png" width="500">
 </p>
 
