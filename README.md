@@ -30,7 +30,13 @@ O objetivo deste projeto é demonstrar habilidades em:
 
 ## Dashboard Analítico
 
-![Dashboard 1](https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png)
+## Dashboard Analítico
 
-![Dashboard 2](https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png" width="700">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png" width="700">
+</p>
 
