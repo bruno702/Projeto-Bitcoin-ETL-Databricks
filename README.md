@@ -38,11 +38,14 @@ A cada execução agendada, o sistema:
 - Envia alerta automático por e-mail com as informações da cotação
 
 Dessa forma, o monitoramento ocorre de maneira automatizada, sem necessidade de execução manual.
+## Dashboard Analítico
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-08-19.png" width="500">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/imagens/dashboard_1.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/Screenshot%202026-02-14%2020-14-49.png" width="500">
+  <img src="https://raw.githubusercontent.com/bruno702/Projeto-Bitcoin-ETL-Databricks/main/imagens/dashboard_2.png" width="500">
 </p>
+
 
