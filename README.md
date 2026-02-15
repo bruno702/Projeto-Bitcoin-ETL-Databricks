@@ -29,10 +29,6 @@ O objetivo deste projeto é demonstrar habilidades em:
 - Organização de código para portfólio profissional
 
 ## Dashboard Analítico
-
-## Dashboard Analítico
-
-## Dashboard Analítico
 O projeto é executado automaticamente por meio de um Job com Schedule configurado no Databricks.
 
 A cada execução agendada, o sistema:
